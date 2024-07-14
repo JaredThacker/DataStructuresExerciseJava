@@ -1,6 +1,7 @@
 package rocks.zipcode;
 
 public interface ZQueue<T> {
+
     boolean isEmpty();
     
     int size();
